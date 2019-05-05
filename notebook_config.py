@@ -15,7 +15,7 @@ webbrowser.register(
 c.NotebookApp.browser = 'chrome'
 c.NotebookApp.webbrowser_open_new = 2
 
-c.NotebookApp.default_url = '/tree'
+c.NotebookApp.default_url = '/tree/notebooks'
 c.NotebookApp.enable_mathjax = True
 c.NotebookApp.extra_nbextensions_path = []
 c.NotebookApp.extra_static_paths = []
